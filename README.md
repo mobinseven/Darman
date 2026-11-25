@@ -1,6 +1,6 @@
 # Darman GitHub Pages
 
-The main branch serves the site at `https://mobinseven.github.io/Darman/`.
+The gh-pages branch serves the site at `https://mobinseven.github.io/Darman/`.
 Edit the HTML and site styles directly. The clinic guide lives at `guide/`.
 Preserve the four guide fragments because the former Vitarish site links to them.
 
